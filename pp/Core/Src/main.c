@@ -94,6 +94,7 @@ int main(void)
 	 int k=0;
 	 for(int s=0;s<100;s++){
 		 k+=s;
+		 int lalala=s+k;
 	 }
 
     /* USER CODE END WHILE */
